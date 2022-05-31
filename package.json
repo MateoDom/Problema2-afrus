@@ -1,0 +1,16 @@
+{
+  "name": "problema-2-afrus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "problema2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.2.4"
+  }
+}
