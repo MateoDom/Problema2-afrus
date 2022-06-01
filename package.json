@@ -4,13 +4,14 @@
   "description": "",
   "main": "problema2.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon ./problema2.js"
   },
   "type": "module",
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node-fetch": "^3.2.4"
+    "node-fetch": "^3.2.4",
+    "nodemon": "^2.0.16"
   }
 }

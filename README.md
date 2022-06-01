@@ -12,4 +12,4 @@
  </ul>
 
 <p>Para ver la solución, descargá el repositorio, ingresa a tu editor de código y accedé en tu terminal a este repositorio, una vez estes parado en el mismo ejecutá npm install.</p>
-<p>Una vez echo esto, ir al archivo problema2.js, y vera que debajo de cada funcion esta la solucion de dicho problema, lo que tendra q hacer es descomentar la solución (ctrl k + ctrl u) e ingresar los valores que usted desee, para ver el resultado volvé a tu terminal e ingresa lo siguiente: node problema2.js, y podra ver el resultado en consola.
+<p>Una vez echo esto, ir al archivo problema2.js, y vera que debajo de cada funcion esta la solucion de dicho problema, lo que tendra q hacer es descomentar la solución (ctrl k + ctrl u) e ingresar los valores que usted desee, para ver el resultado simplemente haga npm start y cuando vaya guardando los cambios se veran los console.log</p>
